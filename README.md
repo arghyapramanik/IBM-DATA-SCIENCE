@@ -1,2 +1,2 @@
 # IBM DATA SCIENCE
- Contains IBM data science assignments 
+ Contains IBM data science assignments and stuffs
